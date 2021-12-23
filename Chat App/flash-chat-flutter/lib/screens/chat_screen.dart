@@ -43,7 +43,7 @@ class _ChatScreenState extends State<ChatScreen> {
                   ),
                   TextButton(
                     onPressed: () {
-                      //Implement send functionalit.1
+                      //Implement send functionalit.
                     },
                     child: Text(
                       'Send',
